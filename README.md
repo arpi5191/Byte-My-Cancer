@@ -5,4 +5,4 @@ Implement Logistic Regression, Support Vector Machine, and Random Forest Classif
 # Instructions:
   1) Download the Lung_Cancer.csv dataset and upload it to a platform like Jupyter Notebook or Google Colab.
   2) Download the 09_615_Project.ipynb notebook and upload it to the same platform.
-  3) Run the 09_615_Project.ipynb notebook to perform the analysis, which includes feature engineering, model results, cross-validation, feature relevance analysis, and identification of the best model.
+  3) Run the 09_615_Project.ipynb notebook to perform the analysis, which includes feature engineering, model results, cross-validation, feature relevance evaluation, and identification of the best model.
