@@ -1,6 +1,6 @@
 # Lung-Cancer-Diagnosis
 
-Implement Logistic Regression, Support Vector Machine, and Random Forest Classifier models on a lung cancer dataset to predict whether each patient has lung cancer based on their characteristics after performing feature engineering. Validate the results of the models using cross-validation. Analyze the relevance of all features in the dataset in determining the lung cancer diagnosis of the patients. Lastly, conduct t-tests to identify the most effective model for the dataset. The dataset was obtained from Kaggle.
+Implement Logistic Regression, Support Vector Machine, and Random Forest Classifier models on a lung cancer dataset to predict whether each patient has lung cancer based on their characteristics after performing feature engineering. Confirm the results of the models using cross-validation. Analyze the relevance of all features in the dataset in determining the lung cancer diagnosis of the patients. Lastly, conduct t-tests to identify the most effective model for the dataset. The dataset was obtained from Kaggle.
 
 # Instructions:
   1) Download the Lung_Cancer.csv dataset and upload it to a platform like Jupyter Notebook or Google Colab.
